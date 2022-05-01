@@ -1,16 +1,18 @@
-Hi 👋 My name is Rutvikk :D
+Hey there 👋 I am Rutvikk :D 
 ===========================
 
-Developer/Writer
+Developer/Writer 🧑‍💻✍️
 ----------------
 
 I'm a CS undergrad who loves building stuff (Web development) and writing stuff (Content writing). 
-I also love being a content creator on twitter and Medium (1k+ followers).
+I also love being a content creator on Twitter and Medium (1k+ followers).
 
 My goal is to build something truly revolutionary in the future- 
 something which will have a positive impact on humanity.
 
-My values are - Courage, Creativity, Curiosity, Justice and wisdom. My hobbies include - Writing microfiction, watching anime & reading long-ass books!
+My values are - Courage, Creativity, Curiosity, Justice and wisdom. 
+
+My hobbies include - Writing poems, watching anime & reading long-ass books!
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [rutvikk5@gmail.com](mailto:rutvikk5@gmail.com)
